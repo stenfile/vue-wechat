@@ -1,10 +1,10 @@
 var list = [{
     "base": {
         "id": 1,
-        "name": "杨涛",
-        "nickname": "nick_杨涛",
-        "remark": "remark_杨涛",
-        "wxid": "wxid_yangtao",
+        "name": "小样",
+        "nickname": "nick_小样",
+        "remark": "remark_小样",
+        "wxid": "wxid_xy",
         "qq": "00001",
         "email": "00001@qq.com",
         "type": "friends",
@@ -19,7 +19,7 @@ var list = [{
     "chatBaseModel": {
         "newsUnreadCount": 1,
         "endTimeStr": 1472632586443,
-        "endChatAuth": "杨涛",
+        "endChatAuth": "小样",
         "endChatTxt": "晚上打球?",
     },
     //对话框底部菜单
@@ -30,9 +30,9 @@ var list = [{
     "chatMemberModel": [{
         "id": 1,
         "iconSrc": "//images2015.cnblogs.com/blog/528573/201609/528573-20160925131410373-516492873.jpg",
-        "name": "杨涛",
-        "nickname": "nick_杨涛",
-        "remark": "remark_杨涛",
+        "name": "小样",
+        "nickname": "nick_小样",
+        "remark": "remark_小样",
     }],
     "chatConfigModel": {
         "isStick": false, //置顶

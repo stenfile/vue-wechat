@@ -6,8 +6,8 @@
                     <img src="//images2015.cnblogs.com/blog/528573/201609/528573-20160925223248967-1344840692.jpg">
                 </div>
                 <div class="weui_cell_bd weui_cell_primary">
-                    <p>yangtao</p>
-                    <p><span>微信号:&nbsp;&nbsp;</span><span>wxid_yangtao</span></p>
+                    <p>tyd</p>
+                    <p><span>微信号:&nbsp;&nbsp;</span><span>tyd0907</span></p>
                 </div>
                 <div class="weui_cell_ft">
                     <img class="_align-middle" style="height:25px;" src="../assets/images/chat-info-qr.png">

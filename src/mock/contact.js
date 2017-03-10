@@ -2,9 +2,9 @@ module.exports = [{
     "alpha": "A",
     "list": [{
         "id": 1,
-        "name": "杨涛",
-        "nickname":"杨涛",
-        "remark":"阿涛",
+        "name": "小样",
+        "nickname":"小样",
+        "remark":"小样",
         "wxid": "wxid_yangtao",
         "qq": "00000",
         "email": "00000@qq.com",

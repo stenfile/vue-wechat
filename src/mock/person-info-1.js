@@ -22,9 +22,9 @@
 module.exports = {
     "base": {
         "id": 1,
-        "name": "杨涛",
-        "nickname": "杨涛",
-        "remark":"阿涛",
+        "name": "小样",
+        "nickname": "小样",
+        "remark":"小样",
         "wxid": "wxid_yangtao",
         "qq": "00001",
         "email": "00001@qq.com",
@@ -39,7 +39,7 @@ module.exports = {
     "chatPrevivw": {
         "newsUnreadCount": 1, //未读
         "endTimeStr": 1472632586443,
-        "endChatAuth": "杨涛",
+        "endChatAuth": "小样",
         "endChatTxt": "晚上打球",
         "chatBackground": null, //聊天背景
         "newsMute": false
